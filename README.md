@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi, I'm **Manaswini Alakunta**!<br> I'm a  Computer Science Engineering student passionate about building modern, user-friendly web applications.<br> I'm currently focused on becoming a **Full Stack Developer**, with hands-on experience in both frontend and backend technologies.<br>- Building responsive web applications using React and Tailwind CSS<br>- Learning backend development with Node.js, Express.js, and MongoDB<br>- Strengthening my Data Structures & Algorithms skills<br>- Developing real-world full-stack projects to improve problem-solving and software development skills<br><br><br><br>⭐ I enjoy learning new technologies, solving real-world problems, and turning ideas into interactive web applications.
+Hi, I'm Manaswini Alakunta 👋
+
+🎓 Computer Science Engineering Student | MERN Stack Developer | Aspiring Data Analyst
+
+I'm a Computer Science Engineering student passionate about building real-world applications, solving problems, and working with data. I'm currently focused on developing my skills in MERN Stack development, Data Analysis, and Data Structures & Algorithms.
+
+🚀 What I'm Currently Working On
+💻 MERN Stack Development — Learning and building full-stack web applications using MongoDB, Express.js, React, and Node.js
+📊 Data Analysis — Exploring data cleaning, visualization, analysis, and extracting meaningful insights from datasets
+🧠 Data Structures & Algorithms — Consistently practicing DSA to strengthen logical thinking and problem-solving abilities
+🛠️ Real-World Projects — Building practical applications to gain hands-on experience and improve software development skills
+📚 Continuous Learning — Exploring new technologies and applying them through projects.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaswinialakunta08@gmail.com) 
