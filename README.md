@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Manaswini Alakunta 👋
 
-🎓 Computer Science Engineering Student | MERN Stack Developer | Aspiring Data Analyst
+🎓 Computer Science Engineering Student | MERN Stack Developer | Aspiring Data scientist
 
 I'm a Computer Science Engineering student passionate about building real-world applications, solving problems, and working with data. I'm currently focused on developing my skills in MERN Stack development, Data Analysis, and Data Structures & Algorithms.
 
